@@ -84,17 +84,25 @@ export const SidebarInvitado = ({children}) => {
 
                     <div class="Container-video-izquierda">
 
-                            <div class="Container-marco">
-
+                           
+          <div class="</div>">
+            <div class="Container-marco-gris">
+                  <div class="Container-marco-canal26">
                                     <div class="Container-titulo">
-                                        Canal26 <br></br>HLS
+                                      Canal26 <br></br>HLS
                                     </div>
     
+    
                                     <div class="Container-video>">
-                                        <ReactPlayer controls playing width="264" height="198" url='https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8' />
-                                    </div>
+    
+                                    <ReactPlayer controls playing width="264" height="198" url='https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8' />
+    
+                                      </div>
+                        </div>
+                </div>
 
-                            </div>
+
+        </div>
                     </div>
 
 
